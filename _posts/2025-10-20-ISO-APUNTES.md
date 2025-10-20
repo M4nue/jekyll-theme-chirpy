@@ -1,206 +1,206 @@
 ÍNDICE
 
-[**Definiciones4**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.b29921tmqgm9)
+[**Definiciones4**]
 
-[**FICHEROS/DIRECTORIOS IMPORTANTES4**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.pebz7jv5ceiz)
+[**FICHEROS/DIRECTORIOS IMPORTANTES4**]
 
-[DIRECTORIOS RAÍCES4](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.13eh30yafgi9)
+[DIRECTORIOS RAÍCES4]
 
-[**APUNTES PROPIOS7**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.ykeqzqllk5bo)
+[**APUNTES PROPIOS7**]
 
-[**ATAJOS DE TECLADO Y TRUCOS7**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.oa17u27368r)
+[**ATAJOS DE TECLADO Y TRUCOS7**]
 
-[**COMANDOS8**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.61zs46gu3h2t)
+[**COMANDOS8**]
 
-[**VARIABLES12**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.dchvcytgmkfg)
+[**VARIABLES12**]
 
-[**Temario13**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.ig1y7c5toiwr)
+[**Temario13**]
 
-[Tema 113](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.79so4du6vs9l)
+[Tema 113]
 
-[PERMISOS14](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.pya5aaerzprq)
+[PERMISOS14]
 
-[TIPOS DE FICHEROS14](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.iz9kbf4h4s5x)
+[TIPOS DE FICHEROS14]
 
-[EXPANSIÓN DE NOMBRES DE FICHERO14](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.fv73j1s6basm)
+[EXPANSIÓN DE NOMBRES DE FICHERO14]
 
-[EXPRESIONES DE NOMBRES COMPLEJAS15](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.ud8jeym4z6g)
+[EXPRESIONES DE NOMBRES COMPLEJAS15]
 
-[EXPRESIONES LÓGICAS15](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.n5oo2awo8ylv)
+[EXPRESIONES LÓGICAS15]
 
-[EXPANSIÓN DE COMANDOS16](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.be1qmb6evuet)
+[EXPANSIÓN DE COMANDOS16]
 
-[CLAVES PÚBLICAS-PRIVADAS17](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.qnh6phiahdr1)
+[CLAVES PÚBLICAS-PRIVADAS17]
 
-[CARACTERES DE PROTECCIÓN I17](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.ppa6c2r4jjgp)
+[CARACTERES DE PROTECCIÓN I17]
 
-[COMILLAS SIMPLES18](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.w2jz71yqyyqm)
+[COMILLAS SIMPLES18]
 
-[CARACTER \\ SLASH18](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.jkk4nfuz3ycz)
+[CARACTER \\ SLASH18]
 
-[COMILLAS DOBLES18](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.o154d7z4edck)
+[COMILLAS DOBLES18]
 
-[OPERADORES18](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.zfw927qfako6)
+[OPERADORES18]
 
-[OPERADOR “Y” LÓGICO: &&18](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.bw2n7qpwfgy)
+[OPERADOR “Y” LÓGICO: &&18]
 
-[OPERADOR “O” LÓGICO19](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.igltwf26dpnq)
+[OPERADOR “O” LÓGICO19]
 
-[OPERADOR “;” LÓGICO19](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.iafyd93qp9td)
+[OPERADOR “;” LÓGICO19]
 
-[AGRUPACIÓN DE COMANDO19](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.7csjf4epqc4u)
+[AGRUPACIÓN DE COMANDO19]
 
-[**GENERACIÓN DE MÚLTIPLES FICHEROS 119**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.3g5bf72l7u4j)
+[**GENERACIÓN DE MÚLTIPLES FICHEROS 119**]
 
-[**ALIAS20**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.xb6g6jara5gw)
+[**ALIAS20**]
 
-[**ENLACES BLANDO / SOFT LINKS20**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.40qsjnp3m0mr)
+[**ENLACES BLANDO / SOFT LINKS20**]
 
-[**ENLACES DUROS  / HARDLINK21**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.ku0twr497zky)
+[**ENLACES DUROS  / HARDLINK21**]
 
-[REDIRECCIONES21](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.z9ljfznhovca)
+[REDIRECCIONES21]
 
-[Redirecciones simples22](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.cjt7mtffd9el)
+[Redirecciones simples22]
 
-[Redirecciones dobles22](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.6ob992xknyk9)
+[Redirecciones dobles22]
 
-[Redirecciones de entradas simples22](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.mneqmvpxsqed)
+[Redirecciones de entradas simples22]
 
-[Redirecciones de entradas dobles22](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.l8y55fmzbupf)
+[Redirecciones de entradas dobles22]
 
-[CANALES ESTÁNDARES23](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.2cocwt75a6lp)
+[CANALES ESTÁNDARES23]
 
-[APERTURAS DE CANALES 3-924](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.fksrs5hbxbi3)
+[APERTURAS DE CANALES 3-924]
 
-[TUBERÍAS O PIPELINES24](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.vx1dun350973)
+[TUBERÍAS O PIPELINES24]
 
-[Tuberías Con Nombres25](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.srbo44cdcl4y)
+[Tuberías Con Nombres25]
 
-[COMANDO TEE25](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.xvjjvia315ya)
+[COMANDO TEE25]
 
-[COMANDO XARGS26](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.8p1zekr87ucc)
+[COMANDO XARGS26]
 
-[COMANDO FIND27](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.iptx4uadoorr)
+[COMANDO FIND27]
 
-[COMANDO LOCATE29](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.s3c5g6v1jdfe)
+[COMANDO LOCATE29]
 
-[GREP29](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.brb5wez65zk9)
+[GREP29]
 
-[RENAME31](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.o7m6rp7fke8b)
+[RENAME31]
 
-[SED32](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.ntserqgfgfcd)
+[SED32]
 
-[SED-ACCIÓN32](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.b9mz0nowhsoj)
+[SED-ACCIÓN32]
 
-[SED-DIRECCIÓN SIMPLE32](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.2hd53b1ujz83)
+[SED-DIRECCIÓN SIMPLE32]
 
-[SED-COMANDOS33](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.hmhaekwg9gko)
+[SED-COMANDOS33]
 
-[d (delete)33](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.x9bb6s6sjrf6)
+[d (delete)33]
 
-[p (print)33](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.dupc5yyijanc)
+[p (print)33]
 
-[\= (Mostrar)33](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.vfz0ea73ids)
+[\= (Mostrar)33]
 
-[! (negación)33](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.87c4bi6c15cd)
+[! (negación)33]
 
-[s (sustitución)33](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.ixgtisshgx44)
+[s (sustitución)33]
 
-[w (write)33](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.eyofqxhzn79q)
+[w (write)33]
 
-[a (anexar)34](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.j9841hadh8qw)
+[a (anexar)34]
 
-[i (insertar)34](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.tpesqx2hwse9)
+[i (insertar)34]
 
-[c (reemplazar)34](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.q6iy4x14pg9n)
+[c (reemplazar)34]
 
-[CUT35](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.1arzu3ceuvm3)
+[CUT35]
 
-[TR35](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.fs74yqh4idjt)
+[TR35]
 
-[AWK35](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.815z2nmxf7mq)
+[AWK35]
 
-[AWK, VARIABLES35](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.vxsrxkc6phci)
+[AWK, VARIABLES35]
 
-[AWK, ACCIÓN-AWK PRINT36](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.ji3357mrkzde)
+[AWK, ACCIÓN-AWK PRINT36]
 
-[SISTEMAS DE FICHEROS/ARCHIVOS37](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.q45rd9nv68kj)
+[SISTEMAS DE FICHEROS/ARCHIVOS37]
 
-[Supuesto practico137](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.r1yz3ll3fp9b)
+[Supuesto practico137]
 
-[Supuesto practic o237](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.jc5az2lvyu6)
+[Supuesto practic o237]
 
-[HERRAMIENTAS SISTEMAS DE FICHEROS37](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.sxtjzkj24e7j)
+[HERRAMIENTAS SISTEMAS DE FICHEROS37]
 
-[TABLA DE INODOS37](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.2zadandg4wjc)
+[TABLA DE INODOS37]
 
-[DIRECCIONES INDIRECCIONES DE INODOS38](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.ni13hes6k3wm)
+[DIRECCIONES INDIRECCIONES DE INODOS38]
 
-[dumpe2fs38](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.xahvvfz2bh7b)
+[dumpe2fs38]
 
-[ext3grep38](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.myuhsosw4fms)
+[ext3grep38]
 
-[CREACIÓN DE UN SISTEMA DE FICHEROS39](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.nda6h6am0559)
+[CREACIÓN DE UN SISTEMA DE FICHEROS39]
 
-[**UEFI SHELL39**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.t77guhsedczk)
+[**UEFI SHELL39**]
 
-[**SWAP40**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.jc29md8mj0yw)
+[**SWAP40**]
 
-[**JOURNALCTL43**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.r4z4u75nhqkd)
+[**JOURNALCTL43**]
 
-[**GRUB EFI INITRAMFS43**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.7rm274p1tbiz)
+[**GRUB EFI INITRAMFS43**]
 
-[**PROCESOS43**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.b98a51mrp23d)
+[**PROCESOS43**]
 
-[**SESIONES45**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.aivcp11htl5g)
+[**SESIONES45**]
 
-[**SCRIPT48**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.ji99tbh93pwq)
+[**SCRIPT48**]
 
-[PASO DE ARGUMENTOS AL SCRIPT49](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.lhnhdq5wz2l3)
+[PASO DE ARGUMENTOS AL SCRIPT49]
 
-[ENTRADA DE DATOS MANUALMENTE AL SCRIPT49](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.vxv8kywaki09)
+[ENTRADA DE DATOS MANUALMENTE AL SCRIPT49]
 
-[ESTRUCTURA CONDICIONAL IF51](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.re3g18sebu2x)
+[ESTRUCTURA CONDICIONAL IF51]
 
-[Condiciones sobre cadenas de texto51](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.x8dbbacqx4jk)
+[Condiciones sobre cadenas de texto51]
 
-[Condiciones sobre numericos51](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.flg4wikbwag9)
+[Condiciones sobre numericos51]
 
-[Condiciones sobre ficheros51](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.8lw4hql3upgb)
+[Condiciones sobre ficheros51]
 
-[OPERADORES LÓGICOS52](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.7b4q1lt7u11g)
+[OPERADORES LÓGICOS52]
 
-[AGRUPACIONES52](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.qrk35jdv0znm)
+[AGRUPACIONES52]
 
-[COMANDO \[\[ \]\]52](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.hojihj4xxuvp)
+[COMANDO \[\[ \]\]52]
 
-[COMPARACIÓN DE CADENAS MEDIANTE PATRON53](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.jg0gixhumfvc)
+[COMPARACIÓN DE CADENAS MEDIANTE PATRON53]
 
-[ESTRUCTURA IF54](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.d51kbnriauns)
+[ESTRUCTURA IF54]
 
-[LIBRERAS54](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.78kx23o28078)
+[LIBRERAS54]
 
-[getops55](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.lpmjy7tx67s3)
+[getops55]
 
-[BUCLES55](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.e69sj0e4z2t7)
+[BUCLES55]
 
-[SENTENCIA CASE55](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.oq3dd1whhykh)
+[SENTENCIA CASE55]
 
-[Ficheros56](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.1mzipskb3eyk)
+[Ficheros56]
 
-[DEPURACIÓN DE SCRIPTS56](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.fbz4uzbhz61y)
+[DEPURACIÓN DE SCRIPTS56]
 
-[**DIALOG57**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.9yb8j9frt6kg)
+[**DIALOG57**]
 
-[**USUARIO ESPECIALES58**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.k0p8nx9mlwer)
+[**USUARIO ESPECIALES58**]
 
-[**WINDOWS59**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.tgccsrmtyiwn)
+[**WINDOWS59**]
 
-[bcdedit editor de configuración de arranque61](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.p06b6onz6uzp)
+[bcdedit editor de configuración de arranque61]
 
-[POWERSHELL61](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.kyiy6jilevbb)
+[POWERSHELL61]
 
-[**ACTIVE DIRECTORY62**](https://docs.google.com/document/d/103dERgqXOFZX2vz6ViybsobzfNhumvKypoLenwkZyKw/edit?tab=t.0#heading=h.itwmcms4okgg)
+[**ACTIVE DIRECTORY62**]
 
 Definiciones
 ------------

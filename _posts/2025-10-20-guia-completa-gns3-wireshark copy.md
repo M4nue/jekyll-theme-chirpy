@@ -1,56 +1,56 @@
 ÍNDICE
 
-[**INSTALACIÓN GNS3 DEBIAN 122**](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.5d463m6k9l1v)
+[**INSTALACIÓN GNS3 DEBIAN 122**]
 
-[Creación de un entorno virtual y activación de este3](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.czgvsv416402)
+[Creación de un entorno virtual y activación de este3]
 
-[Instalación de paquetes requeridos para python4](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.appplbefcny8)
+[Instalación de paquetes requeridos para python4]
 
-[Importar maquina GNS3 VM5](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.e3qycx5ylkgs)
+[Importar maquina GNS3 VM5]
 
-[Iniciar la interfaz gráfica7](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.fzwl3phodt73)
+[Iniciar la interfaz gráfica7]
 
-[Escenario10](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.6hq6m3413sgz)
+[Escenario10]
 
-[**INSTALACIÓN WIRESHARK DEBIAN 1212**](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.fxr7tpd7c20j)
+[**INSTALACIÓN WIRESHARK DEBIAN 1212**]
 
-[**INSTALACIÓN GNS3 EN WINDOWS13**](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.t4xtawa1gemk)
+[**INSTALACIÓN GNS3 EN WINDOWS13**]
 
-[Escenario26](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.basx7mxxvq9h)
+[Escenario26]
 
-[Instalación GNS3 VM28](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.70anu6od23tf)
+[Instalación GNS3 VM28]
 
-[**INSTALACIÓN WIRESHARK WINDOWS30**](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.8wzv0ay4wy9)
+[**INSTALACIÓN WIRESHARK WINDOWS30**]
 
-[**CAPTURA TRÁFICO DNS31**](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.mn2vtdju7e2i)
+[**CAPTURA TRÁFICO DNS31**]
 
-[**CAPTURA TRÁFICO DHCP32**](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.iibpaazdtqgr)
+[**CAPTURA TRÁFICO DHCP32**]
 
-[**SOLUCIÓN DE ERRORES32**](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.lvwwhvzih0bk)
+[**SOLUCIÓN DE ERRORES32**]
 
-[DEBIAN32](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.j2jv4ls3bxbd)
+[DEBIAN32]
 
-[Dynamips32](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.kwu1cp7lxwpq)
+[Dynamips32]
 
-[Start VPCS35](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.g1atcn6sw4gd)
+[Start VPCS35]
 
-[Ubridge36](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.oy1lqoaea2ff)
+[Ubridge36]
 
-[Xterm38](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.rhmtgvwkabg3)
+[Xterm38]
 
-[Virbr039](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.x0dinvtpbzfs)
+[Virbr039]
 
-[Captura de tráfico wireshark41](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.v0jc8fmeb76)
+[Captura de tráfico wireshark41]
 
-[Instalación VirtualBox42](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.prmte1gqufe7)
+[Instalación VirtualBox42]
 
-[WINDOWS43](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.34j5xkjxb23v)
+[WINDOWS43]
 
-[No se encuentra la máquina GNS3 VM43](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.jda3ruamo753)
+[No se encuentra la máquina GNS3 VM43]
 
-[Indicar a GNS3 el uso de GNS3 VM43](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.nigufu9jfoqd)
+[Indicar a GNS3 el uso de GNS3 VM43]
 
-[**BIBLIOGRAFÍA46**](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.aa1nr3wjh9bt)
+[**BIBLIOGRAFÍA46**]
 
 INSTALACIÓN GNS3 DEBIAN 12
 ==========================
@@ -120,7 +120,7 @@ Procederemos con la instalación de los siguientes paquetes de python
 Importar maquina GNS3 VM
 ------------------------
 
-Para poder utilizar GNS3 VM necesitamos tener un Visualizador en este caso vamos a utilizar VirtualBox, si no se tiene instalado puede mirar la instalación en el apartado de [Instalación Virtualbox](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.prmte1gqufe7).
+Para poder utilizar GNS3 VM necesitamos tener un Visualizador en este caso vamos a utilizar VirtualBox, si no se tiene instalado puede mirar la instalación en el apartado de [Instalación Virtualbox]
 
 Primero necesitamos descargar un archivo .zip que contendrá la máquina virtual de GNS3 VM, podemos descargarlo desde el navegador o con el comando wget y el siguiente enlace 
 
@@ -301,7 +301,7 @@ Después de ésto procederá con la importación de la maquina
 
 Finalmente ya tendremos la máquina GNS3 VM lista para funcionar
 
-En caso de necesitar modificar en GNS3 para indicarle que vas a utilizar GNS3 VM dirígete al apartado de soluciones de errores [INDICAR A GNS3 EL USO DE GNS3 VM](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.nigufu9jfoqd)
+En caso de necesitar modificar en GNS3 para indicarle que vas a utilizar GNS3 VM dirígete al apartado de soluciones de errores [INDICAR A GNS3 EL USO DE GNS3 VM]
 
 INSTALACIÓN WIRESHARK WINDOWS
 =============================
@@ -312,7 +312,7 @@ Una vez descargado, debemos de ejecutar el archivo .exe que nos hemos descargado
 
 Al instalar primero GNS3 ya nos instalará por defecto Wireshark ya que este es necesario para una funcionalidad de GNS3.
 
-Los pasos de instalación de este son instalar WinPcap y Nmap, que se encuentran en el apartado de [INSTALACIÓN GNS3 EN WINDOWS](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.t4xtawa1gemk)
+Los pasos de instalación de este son instalar WinPcap y Nmap, que se encuentran en el apartado de [INSTALACIÓN GNS3 EN WINDOWS]
 
 CAPTURA TRÁFICO DNS
 ===================
@@ -515,7 +515,7 @@ WINDOWS
 
 Nos puede surgir un problema a la hora de iniciar GNS3 en windows debido a que le indicamos durante la instalación que vamos a utilizar GNS3 VM pero esta no está importada todavía
 
-La solución a este problema es realizar la [instalación de la máquina GNS3 VM](https://docs.google.com/document/d/11EWnxWkj8lAexIJEE-1E1vdYB-X5ZDwW402wQEsW6YA/edit?tab=t.0#heading=h.70anu6od23tf)
+La solución a este problema es realizar la [instalación de la máquina GNS3 VM]
 
 ### Indicar a GNS3 el uso de GNS3 VM
 
